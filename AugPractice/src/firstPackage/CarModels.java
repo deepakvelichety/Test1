@@ -9,9 +9,9 @@
 //	boolean accident;
 //	boolean eligibleForCPO;
 //	
-//	public void testEligibilityForCPO(){
-//		if (year >= 2014 & km < 100000 & !accident) {
-//			eligibleForCPO=true;
+//	public void testForEligibility() {
+//		if (year > 2015 & !accident & km < 100000) {
+//			eligibleForCPO = true;
 //		}
 //	}
 //
